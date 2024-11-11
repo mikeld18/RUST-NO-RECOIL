@@ -1,6 +1,5 @@
 --[[ 
-                                                VybsX Developer 
-                                              https://vybsx.site/
+                                               
   ____________________________________________________________________________________________										   
   SENSITIVITY -> YOU CAN SET YOUR OWN SENSITIVITY. BEST SENS TO USE IS 0.4 - 0.6. YOU HAVE TO GO TO 
   LINE:28 TO SETUP THE SENSITIVITY
